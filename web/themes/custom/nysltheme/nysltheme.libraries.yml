@@ -4,3 +4,4 @@ global-styling:
       css/elements.css: {}
       css/layout.css: {}
       css/print.css: { media: print }
+      css/global.css: {}

@@ -1,0 +1,13 @@
+/**
+* global theme file
+*/
+
+ul.menu a.is-active {
+  color: #000;
+  background-color: red;
+}
+
+ul.sf-menu a {
+  padding: 0;
+  position: relative;
+}
