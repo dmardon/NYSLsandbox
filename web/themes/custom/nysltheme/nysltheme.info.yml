@@ -1,5 +1,4 @@
 name: NYS Library Theme
 type: theme
 description: New York State Library Theme
-core: 8.x
-core_version_requirement: ^8 || ^9
+core: 9.x
