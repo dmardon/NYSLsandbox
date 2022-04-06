@@ -20,6 +20,7 @@
         "drupal/core-recommended": "^9.2",
         "drupal/geofield": "^1.38",
         "drupal/geolocation": "^3.7",
+        "drupal/menu_block": "^1.8",
         "drupal/search_api": "^1.23",
         "drupal/superfish": "^1.4",
         "drush/drush": "^10",
