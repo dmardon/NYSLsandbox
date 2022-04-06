@@ -5,6 +5,9 @@ base theme: classy
 package: Core
 core_version_requirement: ^8 || ^9
 
+libraries:
+  - nysltheme/global-css
+
 regions:
   header: Header
   primary_menu: 'Primary menu'
