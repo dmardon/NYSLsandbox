@@ -1,12 +1,12 @@
 name: NYSL Theme
 type: theme
 description: Theme for the New York State Library
-base theme: classy
+base theme: bartik
 package: Core
 core_version_requirement: ^8 || ^9
 
 libraries:
-  - nysltheme/global-css
+  - nysltheme/global-styling
 
 regions:
   header: Header
