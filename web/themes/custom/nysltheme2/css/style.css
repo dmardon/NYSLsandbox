@@ -2,3 +2,8 @@
  * @file
  * Subtheme specific CSS.
  */
+
+
+.navbar {
+    background-color: #004080;
+}
