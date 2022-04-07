@@ -15,3 +15,7 @@
 #navbar-main {
     background-color: #004080;
 }
+
+ul.sf-menu a {
+    color: #fff;
+}
