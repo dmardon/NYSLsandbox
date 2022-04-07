@@ -1,7 +1,7 @@
 name: NYSL Theme
 type: theme
 description: Theme for the New York State Library
-base theme: zircon
+base theme: classy
 package: Core
 core_version_requirement: ^8 || ^9
 
