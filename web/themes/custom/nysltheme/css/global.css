@@ -10,3 +10,11 @@ ul.sf-menu a {
   padding: 0;
   position: relative;
 }
+
+.region.region-primary-menu {
+  background-color: red;
+  width: 100%;
+  overflow: auto;
+  display: flex;
+}
+
