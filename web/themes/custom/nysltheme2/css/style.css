@@ -33,6 +33,6 @@ ul.sf-menu.menu li {
     background-color: #004080;
 }
 
-ul.sf-menu.menu li {
+ul.sf-menu.menu li:hover {
     background-color: #364F89;
 }
