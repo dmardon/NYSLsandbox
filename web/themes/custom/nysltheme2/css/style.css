@@ -45,3 +45,8 @@ a.sf-depth-2 {
     border-bottom: none;
     border-color: #fff;
 }
+
+header #search-block-form {
+    padding: 5px 15px;
+    flex-flow: nowrap;
+}
