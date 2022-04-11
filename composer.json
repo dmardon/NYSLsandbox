@@ -23,6 +23,7 @@
         "drupal/geofield": "^1.38",
         "drupal/geolocation": "^3.7",
         "drupal/menu_block": "^1.8",
+        "drupal/paragraphs": "^1.13",
         "drupal/search_api": "^1.23",
         "drupal/superfish": "^1.4",
         "drupal/zircon": "9.1.x-dev@dev",
