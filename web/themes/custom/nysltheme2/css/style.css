@@ -26,3 +26,13 @@ ul.sf-menu a:hover {
     background-color: #364F89;
     color: #fff;
 }
+
+ul.sf-menu.menu li {
+    margin: 0;
+    padding: 0 5px;
+    background-color: #004080;
+}
+
+ul.sf-menu.menu li {
+    background-color: #364F89;
+}
