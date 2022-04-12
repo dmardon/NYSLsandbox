@@ -27,6 +27,7 @@
         "drupal/paragraphs": "^1.13",
         "drupal/search_api": "^1.23",
         "drupal/superfish": "^1.4",
+        "drupal/views_bootstrap": "^4.3",
         "drupal/zircon": "9.1.x-dev@dev",
         "drush/drush": "^10",
         "pantheon-systems/drupal-integrations": "^9",

@@ -50,3 +50,11 @@ header #search-block-form {
     padding: 5px 15px;
     flex-flow: nowrap;
 }
+
+.form-control {
+    width: auto;
+}
+
+div#block-nysltheme2-search {
+    padding-top: 1em;
+}
