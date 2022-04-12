@@ -26,6 +26,7 @@
         "drupal/menu_block": "^1.8",
         "drupal/paragraphs": "^1.13",
         "drupal/search_api": "^1.23",
+        "drupal/slick": "^2.6",
         "drupal/superfish": "^1.4",
         "drupal/views_bootstrap": "^4.3",
         "drupal/views_slideshow": "^4.8",
