@@ -58,3 +58,8 @@ header #search-block-form {
 div#block-nysltheme2-search {
     padding-top: 1em;
 }
+
+.slick-views-home-page-carousel-block-1-1-slider {
+    /* margin: 0 30px; */
+    padding: 0 30px;
+}
