@@ -59,8 +59,13 @@ div#block-nysltheme2-search {
     padding-top: 1em;
 }
 
-div#slick-views-home-page-carousel-block-1-1-slider {
-    /* margin: 0 30px; */
-    padding: 0 90px;
-    width: 50%;
+/* div#slick-views-home-page-carousel-block-1-1-slider {
+     margin: 0 30px; 
+     padding: 0 90px;
+     width: 50%; 
+} */
+
+button.slick-next.slick-arrow {
+    position: fixed;
+    left: 48%;
 }
