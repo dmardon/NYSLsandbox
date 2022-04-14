@@ -69,3 +69,11 @@ button.slick-next.slick-arrow {
     position: fixed;
     left: 48%;
 }
+
+.slick-arrow::before {
+    color: #000;
+}
+
+.slick-arrow::after {
+    color: #000;
+}
