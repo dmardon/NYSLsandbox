@@ -22,6 +22,8 @@
         "drupal/bootstrap_simple_carousel": "^1.63",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
+        "drupal/entity_browser": "^2.6",
+        "drupal/entity_usage": "^2.0@beta",
         "drupal/geofield": "^1.38",
         "drupal/geolocation": "^3.7",
         "drupal/menu_block": "^1.8",
