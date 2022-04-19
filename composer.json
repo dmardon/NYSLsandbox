@@ -20,6 +20,7 @@
         "drupal/bootstrap_barrio": "^5.5",
         "drupal/bootstrap_paragraphs": "^2.0@beta",
         "drupal/bootstrap_simple_carousel": "^1.63",
+        "drupal/classy_paragraphs": "^1.0@RC",
         "drupal/components": "^2.4",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
