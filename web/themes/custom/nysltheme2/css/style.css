@@ -77,3 +77,15 @@ button.slick-next.slick-arrow {
 .slick-arrow::after {
     color: #000;
 }
+
+.flex-direction-nav a {
+    height: 45px;
+}
+
+.flexslider:hover .flex-direction-nav .flex-prev {
+    left: -30px;
+}
+
+.flexslider:hover .flex-direction-nav .flex-next {
+    right: -30px;
+}
