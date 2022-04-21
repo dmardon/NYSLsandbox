@@ -27,6 +27,7 @@
         "drupal/core-recommended": "^9.2",
         "drupal/entity_browser": "^2.6",
         "drupal/entity_usage": "^2.0@beta",
+        "drupal/flexslider": "^2.0",
         "drupal/geofield": "^1.38",
         "drupal/geolocation": "^3.7",
         "drupal/layout_builder_blocks": "^1.0",
