@@ -43,6 +43,7 @@
         "drupal/entity_usage": "^2.0@beta",
         "drupal/flexslider": "^2.0",
         "drupal/geofield": "^1.38",
+        "drupal/geofield_map": "^2.75",
         "drupal/geolocation": "^3.7",
         "drupal/layout_builder_blocks": "^1.0",
         "drupal/menu_block": "^1.8",
