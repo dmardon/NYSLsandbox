@@ -89,3 +89,8 @@ button.slick-next.slick-arrow {
 .flexslider:hover .flex-direction-nav .flex-next {
     right: -30px;
 }
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+}
