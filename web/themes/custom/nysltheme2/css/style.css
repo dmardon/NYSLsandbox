@@ -94,3 +94,12 @@ button.slick-next.slick-arrow {
     display: flex;
     flex-wrap: wrap;
 }
+
+ul.pagination.js-pager__items {
+    margin-top: 1rem;
+}
+
+.pagination {
+    justify-content: center;
+    flex-wrap: wrap;
+}
