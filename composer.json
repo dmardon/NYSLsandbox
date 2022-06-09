@@ -49,6 +49,7 @@
         "drupal/layout_builder_blocks": "^1.0",
         "drupal/menu_block": "^1.8",
         "drupal/paragraphs": "^1.13",
+        "drupal/pathauto": "^1.10",
         "drupal/search_api": "^1.23",
         "drupal/search_api_location": "^1.0@alpha",
         "drupal/slick": "^2.6",
