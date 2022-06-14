@@ -47,6 +47,7 @@
         "drupal/geofield_map": "^2.75",
         "drupal/geolocation": "^3.7",
         "drupal/layout_builder_blocks": "^1.0",
+        "drupal/math_field": "^2.0",
         "drupal/menu_block": "^1.8",
         "drupal/paragraphs": "^1.13",
         "drupal/pathauto": "^1.10",
