@@ -103,3 +103,9 @@ ul.pagination.js-pager__items {
     justify-content: center;
     flex-wrap: wrap;
 }
+div#block-youthservicessidebar1 {
+    font-size: 18px;
+}
+div#block-youthservicessidebar2 {
+    font-size: 18px;
+}
